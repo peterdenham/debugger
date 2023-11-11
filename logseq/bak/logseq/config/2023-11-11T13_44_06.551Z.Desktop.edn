@@ -417,4 +417,4 @@
  :feature/enable-whiteboards? false
  :journal/page-title-format "yyyy-MM-dd"
  :feature/enable-journals? false
- :default-home {:page "Debugging Loqseq Notes"}}
+ :default-home {:page "Contents"}}
