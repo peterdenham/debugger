@@ -11,7 +11,7 @@ jobs:
       - uses: logseq/publish-spa@main
         with:
           graph-directory: .
-          output-directory: .
+          output-directory: www
           version: nightly
       - name: add a nojekyll file # to make sure asset paths are correctly identified
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
