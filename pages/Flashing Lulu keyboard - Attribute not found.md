@@ -1,4 +1,6 @@
-# Context
+public:: true
+
+- # Context
 	- Flashing my Lulu keyboard with custom firmware
 - # Error:
 	- ```

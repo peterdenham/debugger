@@ -1,5 +1,3 @@
-public:: true
-
 - [[Flashing Lulu keyboard - Attribute not found]]
 - [[Index]]
--
+- [[Debugging Loqseq Notes]]
