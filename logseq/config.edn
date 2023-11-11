@@ -414,4 +414,5 @@
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? false
  :feature/enable-flashcards? false
- :feature/enable-whiteboards? false}
+ :feature/enable-whiteboards? false
+ :journal/page-title-format "yyyy-MM-dd"}
