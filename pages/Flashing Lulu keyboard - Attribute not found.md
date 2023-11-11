@@ -5,4 +5,4 @@
 	  cp: LV4.uf2: could not copy extended attributes to /Volumes/RPI-RP2/LV4.uf2: Attribute not found
 	  ```
 - Result:
-	- Ignorable. It does not mean the copy failed, it' jus
+	- Ignorable. It does not mean the copy failed, it's that the filesystem doesn't support attributes.
